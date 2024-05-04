@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134836112477",
+    "project_id": "v-care-110b0",
+    "storage_bucket": "v-care-110b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134836112477:android:6b9c1f13d0f707e60e91b4",
+        "android_client_info": {
+          "package_name": "com.example.major_vcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbEarbBtWe0Z98kYxKJmlMMiQdKCNg_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
