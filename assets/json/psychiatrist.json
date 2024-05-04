@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dr. Elizabeth Thompson",
+    "picture": "assets/cardio.png",
+    "hospital": "St. Mary's Heart Center",
+    "speciality": "Gynecologist"
+  },
+  {
+    "name": "Dr. David Johnson",
+    "picture": "assets/cardio.png",
+    "hospital": "Central City Medical Group",
+    "speciality": "Dermatologist"
+  },
+  {
+    "name": "Dr. Emily Garcia",
+    "picture": "assets/cardio.png",
+    "hospital": "Bayside Regional Hospital",
+    "speciality": "Psychiatrist"
+  }]
